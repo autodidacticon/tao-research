@@ -1,0 +1,3 @@
+[submodule "chutes-miner"]
+	path = chutes-miner
+	url = git@github.com:chutesai/chutes-miner.git
